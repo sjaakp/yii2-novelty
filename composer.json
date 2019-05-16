@@ -1,0 +1,22 @@
+{
+    "name": "sjaakp/yii2-novelty",
+    "description": "Property indicating novelty of Yii2 ActiveRecord.",
+    "keywords": ["yii", "yii2", "extension", "behavior", "novelty", "freshness"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sjaak Priester",
+            "email": "sjaak@sjaakpriester.nl",
+            "homepage": "https://sjaakpriester.nl"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+    },
+    "autoload": {
+        "psr-4": {
+            "sjaakp\\novelty\\": ""
+        }
+    }
+}
