@@ -3,6 +3,10 @@ yii2-novelty
 
 ## Property indicating novelty of Yii2 ActiveRecord ##
 
+[![Latest Stable Version](https://poser.pugx.org/sjaakp/yii2-novelty/v/stable)](https://packagist.org/packages/sjaakp/yii2-novelty)
+[![Total Downloads](https://poser.pugx.org/sjaakp/yii2-novelty/downloads)](https://packagist.org/packages/sjaakp/yii2-novelty)
+[![License](https://poser.pugx.org/sjaakp/yii2-novelty/license)](https://packagist.org/packages/sjaakp/yii2-novelty)
+
 **yii2-novelty** is a [behavior](https://www.yiiframework.com/doc/guide/2.0/en/concept-behaviors#behaviors "Yii2")
 that adds a property with the name `'novelty'` to an [ActiveRecord](https://www.yiiframework.com/doc/guide/2.0/en/db-active-record#active-record "Yii2")
 in the [Yii2](https://www.yiiframework.com/ "Yii2") PHP framework. This property has one of
